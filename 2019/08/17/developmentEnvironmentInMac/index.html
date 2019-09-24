@@ -15,12 +15,12 @@
 <meta property="og:site_name" content="LunarScents&#39;s DevLog">
 <meta property="og:description" content="Overview처음 MacOS 환경에서 접하는 FrontEnd 개발자 분들에게 개발 환경을 설정하는 방법을 소개하려 합니다.이 글을 통해 기본적인 설정을 쉽게 진행해보시기 바랍니다. (macOS Mojave 기준)">
 <meta property="og:locale" content="en">
-<meta property="og:image" content="https://lunarscents.github.io/images/macOS.jpg">
-<meta property="og:updated_time" content="2019-09-23T09:00:46.273Z">
+<meta property="og:image" content="https://lunarscents.github.io/images/macOS.png">
+<meta property="og:updated_time" content="2019-09-24T10:49:20.113Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Mac OS 개발 환경 설정 Guide">
 <meta name="twitter:description" content="Overview처음 MacOS 환경에서 접하는 FrontEnd 개발자 분들에게 개발 환경을 설정하는 방법을 소개하려 합니다.이 글을 통해 기본적인 설정을 쉽게 진행해보시기 바랍니다. (macOS Mojave 기준)">
-<meta name="twitter:image" content="https://lunarscents.github.io/images/macOS.jpg">
+<meta name="twitter:image" content="https://lunarscents.github.io/images/macOS.png">
 
 
 
@@ -152,7 +152,7 @@
     
     <div class="card-image">
         <span class="image is-7by1">
-            <img class="thumbnail" src="/images/macOS.jpg" alt="Mac OS 개발 환경 설정 Guide">
+            <img class="thumbnail" src="/images/macOS.png" alt="Mac OS 개발 환경 설정 Guide">
         </span>
     </div>
     
@@ -186,7 +186,7 @@
 </ul>
 <h3 id="Finder-기본-폴더-설정"><a href="#Finder-기본-폴더-설정" class="headerlink" title="Finder 기본 폴더 설정"></a>Finder 기본 폴더 설정</h3><ul>
 <li>Finder 실행 시 기본 폴더를 Home 폴더로 설정합니다.</li>
-<li><code>General</code> &gt; <code>New Finder windows show</code>:  (home folder)</li>
+<li><code>General</code> &gt; <code>New Finder windows show</code>: (home folder)</li>
 </ul>
 <h3 id="파일-확장자-보여주기"><a href="#파일-확장자-보여주기" class="headerlink" title="파일 확장자 보여주기"></a>파일 확장자 보여주기</h3><ul>
 <li>모든 파일의 확장자를 보여주는 설정은 아래와 같습니다.</li>
@@ -248,7 +248,6 @@
           .end();
     </script>
 
-
 <ol start="2">
 <li><code>설치목록을 저장하여 재설치를 자동화 할 수 있습니다.</code><ul>
 <li>새로운 기기나 환경에서 설치하거나 재설치 할 경우 목록만 있으면 많은 어플리케이션을 한번에 설치 할 수 있습니다.</li>
@@ -266,11 +265,10 @@
           .end();
     </script>
 
-
 <h3 id="git-설치"><a href="#git-설치" class="headerlink" title="git 설치"></a>git 설치</h3><p>Version 관리 도구로 macOS에 기본으로 설치되어 있지만 최신 버전이 아니므로 brew를 이용하여 업데이트 합니다.</p>
 <p>아래 순서대로 우선 시 됩니다.</p>
 <ol>
-<li><code>.git/config</code> : 이 파일은 Git 디렉토리에 있고 특정 저장소(혹은 현재 작업 중인 프로젝트)에만 적용됩니다. </li>
+<li><code>.git/config</code> : 이 파일은 Git 디렉토리에 있고 특정 저장소(혹은 현재 작업 중인 프로젝트)에만 적용됩니다.</li>
 <li><code>~/.gitconfig</code> : 특정 사용자에게만 적용되는 설정이다. git config –global 옵션으로 이 파일을 읽고 쓸 수 있습니다.</li>
 <li><code>/etc/gitconfig</code> : 시스템의 모든 사용자와 모든 저장소에 적용되는 설정이다. git config –system 옵션으로 이 파일을 읽고 쓸 수 있습니다.</li>
 </ol>
@@ -317,7 +315,7 @@
 
 <hr>
 <h2 id="iTerm2-설치"><a href="#iTerm2-설치" class="headerlink" title="iTerm2 설치"></a>iTerm2 설치</h2><p><a href="https://www.iterm2.com/downloads.html" rel="external nofollow noopener noreferrer" target="_blank">iTerm2</a> 는 기본 터미널에 기능을 확장한 무료 애플리케이션입니다.</p>
-<p>macOS에 기본으로 설치되어 있는 Terminal 대신 iTerm2를 터미널 앱으로 사용합니다. </p>
+<p>macOS에 기본으로 설치되어 있는 Terminal 대신 iTerm2를 터미널 앱으로 사용합니다.</p>
 <br>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@glorious/demo@0.8.0/dist/gdemo.min.css"><script src="https://cdn.jsdelivr.net/npm/@glorious/demo@0.8.0/dist/gdemo.min.js"></script>
@@ -331,7 +329,6 @@
     </script>
 
 <br>
-
 
 <h2 id="zsh-설치"><a href="#zsh-설치" class="headerlink" title="zsh 설치"></a>zsh 설치</h2><p>macOS 의 기본 shell은 bash 를 대체할 zsh를 설치합니다.</p>
 <p>macOS Catalina 부터 zsh을 기본 shell로 지원합니다.</p>
@@ -443,7 +440,7 @@
 <h3 id="NVM-환경변수-및-설정-내용-추가"><a href="#NVM-환경변수-및-설정-내용-추가" class="headerlink" title="NVM 환경변수 및 설정 내용 추가"></a>NVM 환경변수 및 설정 내용 추가</h3><ul>
 <li><code>.zshrc</code> 파일을 열어 하단에 아래 내용을 추가 한 후 저장합니다.</li>
 </ul>
-<figure class="highlight plain hljs"><figcaption><span>.zshrc</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># NVM</span><br><span class="line">export NVM_DIR=&quot;$HOME/.nvm&quot;</span><br><span class="line">. &quot;$(brew --prefix nvm)/nvm.sh&quot;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain hljs"><figcaption><span>.zshrc</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"># NVM</span><br><span class="line"></span><br><span class="line">export NVM_DIR=&quot;$HOME/.nvm&quot;</span><br><span class="line">. &quot;$(brew --prefix nvm)/nvm.sh&quot;</span><br></pre></td></tr></table></figure>
 
 <br>
 
@@ -539,7 +536,7 @@
 <br>
 
 <ol start="5">
-<li><a href="https://github.com/settings/ssh/new" rel="external nofollow noopener noreferrer" target="_blank">Add New SSH keys on Github</a> 에 접속하여 <code>Title</code>에는 userName을, <code>Key</code>에는 복사한 내용을 붙여넣고 추가합니다. </li>
+<li><a href="https://github.com/settings/ssh/new" rel="external nofollow noopener noreferrer" target="_blank">Add New SSH keys on Github</a> 에 접속하여 <code>Title</code>에는 userName을, <code>Key</code>에는 복사한 내용을 붙여넣고 추가합니다.</li>
 </ol>
 <br>
 
@@ -549,8 +546,8 @@
 </ol>
 <p><a href="https://www.alfredapp.com/" rel="external nofollow noopener noreferrer" target="_blank">alfred</a>는 독특한 단축키와 키스트로크 시스템을 통해 생산성을 높여줍니다.</p>
 <ul>
-<li>앱을 실행하고 파일을 찾고 계산하는 것은 물론 빠르고 정확하게 맥을 제어할 수 있습니다. </li>
-<li>사용자 설정 기능도 강력합니다. </li>
+<li>앱을 실행하고 파일을 찾고 계산하는 것은 물론 빠르고 정확하게 맥을 제어할 수 있습니다.</li>
+<li>사용자 설정 기능도 강력합니다.</li>
 <li>MacOS의 단점인 스폿라이트(spotlight)를 훌륭하게 보완한 앱입니다.</li>
 </ul>
 <br>
