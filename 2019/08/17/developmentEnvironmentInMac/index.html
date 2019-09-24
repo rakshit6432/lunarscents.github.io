@@ -16,7 +16,7 @@
 <meta property="og:description" content="Overview처음 MacOS 환경에서 접하는 FrontEnd 개발자 분들에게 개발 환경을 설정하는 방법을 소개하려 합니다.이 글을 통해 기본적인 설정을 쉽게 진행해보시기 바랍니다. (macOS Mojave 기준)">
 <meta property="og:locale" content="en">
 <meta property="og:image" content="https://lunarscents.github.io/images/macOS.jpg">
-<meta property="og:updated_time" content="2019-09-23T08:20:49.494Z">
+<meta property="og:updated_time" content="2019-09-23T09:00:46.273Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Mac OS 개발 환경 설정 Guide">
 <meta name="twitter:description" content="Overview처음 MacOS 환경에서 접하는 FrontEnd 개발자 분들에게 개발 환경을 설정하는 방법을 소개하려 합니다.이 글을 통해 기본적인 설정을 쉽게 진행해보시기 바랍니다. (macOS Mojave 기준)">
@@ -355,7 +355,7 @@
             <script>
         new GDemo('#demo-terminal5')
           .openApp('terminal', {minHeight: '70px', windowTitle: 'zsh', promptString: '$'})
-          .command(`brew install zsh;chsh -s /usr`, {onCompleteDelay: 500})
+          .command(`brew install zsh;chsh -s $(which zsh)`, {onCompleteDelay: 500})
           .respond(``)
           .end();
     </script>
@@ -474,7 +474,7 @@
 
 <br>
 
-<h2 id="Yarn-설치-및-설정"><a href="#Yarn-설치-및-설정" class="headerlink" title="Yarn 설치 및 설정"></a>Yarn 설치 및 설정</h2><p>수많은 개발자들은 코드의 패키지를 공유하고 이 것을 조립하여 프로젝트를 빌드하는 도구로 Package Manager를 사용합니다.</p>
+<h2 id="Yarn-설치"><a href="#Yarn-설치" class="headerlink" title="Yarn 설치"></a>Yarn 설치</h2><p>수많은 개발자들은 코드의 패키지를 공유하고 이 것을 조립하여 프로젝트를 빌드하는 도구로 Package Manager를 사용합니다.</p>
 <p>그리고 전 세계적으로 가장 인기있고 많이 쓰이는 JavaScript Package Manager는 <code>NPM</code> 입니다.</p>
 <p>NPM은 배포가 쉽고 종속성을 쉽게 해결할 수 있다는 장점이 있지만 패키지가 중복으로 설치될 수 있다는 단점이 있습니다.</p>
 <p>이러한 이슈를 해결하기 위한 새로운 자바스크립트 패키지 매니저가 <code>Yarn</code>입니다.</p>
@@ -848,9 +848,9 @@
         <span class="has-mr-6">7.3</span>
         <span>NVM을 통한 Node 설치 및 버전 전환</span>
         </a></li></ul></li><li>
-        <a class="is-flex" href="#Yarn-설치-및-설정">
+        <a class="is-flex" href="#Yarn-설치">
         <span class="has-mr-6">8</span>
-        <span>Yarn 설치 및 설정</span>
+        <span>Yarn 설치</span>
         </a></li><li>
         <a class="is-flex" href="#SSH-Key-설정">
         <span class="has-mr-6">9</span>
