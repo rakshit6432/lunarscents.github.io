@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://lunarscents.github.io/2019/10/08/lisaWorkbook/</loc>
+        <lastmod>2019-10-07T15:02:27.850Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://lunarscents.github.io/2019/10/07/serviceLane/</loc>
         <lastmod>2019-10-07T12:42:28.224Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -128,14 +136,6 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/08/19/appendAndDelete/</loc>
-        <lastmod>2019-09-19T06:44:20.073Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://lunarscents.github.io/2019/08/18/marsExploration/</loc>
         <lastmod>2019-09-19T06:44:20.073Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,6 +145,14 @@
 
     <url>
         <loc>https://lunarscents.github.io/2019/08/21/taumAndBday/</loc>
+        <lastmod>2019-09-19T06:44:20.073Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://lunarscents.github.io/2019/08/19/appendAndDelete/</loc>
         <lastmod>2019-09-19T06:44:20.073Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -184,14 +192,6 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/08/14/equalizeArray/</loc>
-        <lastmod>2019-09-19T06:44:20.072Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://lunarscents.github.io/2019/08/12/cutTheSticks/</loc>
         <lastmod>2019-09-19T06:44:20.072Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -200,15 +200,15 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/08/04/bigSorting/</loc>
-        <lastmod>2019-09-19T06:44:20.071Z</lastmod>
+        <loc>https://lunarscents.github.io/2019/08/14/equalizeArray/</loc>
+        <lastmod>2019-09-19T06:44:20.072Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/08/05/climbingleaderboard/</loc>
+        <loc>https://lunarscents.github.io/2019/08/04/bigSorting/</loc>
         <lastmod>2019-09-19T06:44:20.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -232,7 +232,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/08/07/circularArrayRotation/</loc>
+        <loc>https://lunarscents.github.io/2019/08/05/climbingleaderboard/</loc>
         <lastmod>2019-09-19T06:44:20.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -256,8 +256,8 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/30/sequenceEquation/</loc>
-        <lastmod>2019-09-19T06:44:20.070Z</lastmod>
+        <loc>https://lunarscents.github.io/2019/08/07/circularArrayRotation/</loc>
+        <lastmod>2019-09-19T06:44:20.071Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -265,6 +265,14 @@
 
     <url>
         <loc>https://lunarscents.github.io/2019/07/31/camelCase/</loc>
+        <lastmod>2019-09-19T06:44:20.070Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://lunarscents.github.io/2019/07/30/sequenceEquation/</loc>
         <lastmod>2019-09-19T06:44:20.070Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -344,7 +352,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/24/drawingBook/</loc>
+        <loc>https://lunarscents.github.io/2019/07/25/findDigits/</loc>
         <lastmod>2019-09-19T06:44:20.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -352,7 +360,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/25/findDigits/</loc>
+        <loc>https://lunarscents.github.io/2019/07/24/drawingBook/</loc>
         <lastmod>2019-09-19T06:44:20.062Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -400,6 +408,14 @@
     </url>
 
     <url>
+        <loc>https://lunarscents.github.io/2019/07/18/countingValleys/</loc>
+        <lastmod>2019-09-19T06:44:20.061Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://lunarscents.github.io/2019/07/19/hurdleRace/</loc>
         <lastmod>2019-09-19T06:44:20.061Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -424,15 +440,15 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/18/countingValleys/</loc>
-        <lastmod>2019-09-19T06:44:20.061Z</lastmod>
+        <loc>https://lunarscents.github.io/2019/07/09/breakingRecords/</loc>
+        <lastmod>2019-09-19T06:44:20.060Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/09/breakingRecords/</loc>
+        <loc>https://lunarscents.github.io/2019/07/10/birthdayChocolate/</loc>
         <lastmod>2019-09-19T06:44:20.060Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -448,14 +464,6 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/13/splitTheBill/</loc>
-        <lastmod>2019-09-19T06:44:20.060Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://lunarscents.github.io/2019/07/12/dayOfProgrammer/</loc>
         <lastmod>2019-09-19T06:44:20.060Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -464,7 +472,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/10/birthdayChocolate/</loc>
+        <loc>https://lunarscents.github.io/2019/07/13/splitTheBill/</loc>
         <lastmod>2019-09-19T06:44:20.060Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -528,6 +536,14 @@
     </url>
 
     <url>
+        <loc>https://lunarscents.github.io/2019/07/01/staircase/</loc>
+        <lastmod>2019-09-19T06:44:20.058Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://lunarscents.github.io/2019/07/02/birthdayCandles/</loc>
         <lastmod>2019-09-19T06:44:20.058Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -544,14 +560,6 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/01/staircase/</loc>
-        <lastmod>2019-09-19T06:44:20.058Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://lunarscents.github.io/2019/07/03/timeConversion/</loc>
         <lastmod>2019-09-19T06:44:20.058Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -560,7 +568,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/04/gradingStudents/</loc>
+        <loc>https://lunarscents.github.io/2019/07/03/transmissionTower/</loc>
         <lastmod>2019-09-19T06:44:20.058Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -568,7 +576,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/07/03/transmissionTower/</loc>
+        <loc>https://lunarscents.github.io/2019/07/04/gradingStudents/</loc>
         <lastmod>2019-09-19T06:44:20.058Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -624,7 +632,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/27/additionMatrix/</loc>
+        <loc>https://lunarscents.github.io/2019/06/28/aVeryBigSum/</loc>
         <lastmod>2019-09-19T06:44:20.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -632,7 +640,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/28/aVeryBigSum/</loc>
+        <loc>https://lunarscents.github.io/2019/06/27/additionMatrix/</loc>
         <lastmod>2019-09-19T06:44:20.056Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -768,7 +776,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/16/addDigits/</loc>
+        <loc>https://lunarscents.github.io/2019/06/15/queuesAndStack/</loc>
         <lastmod>2019-09-19T06:44:20.052Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -776,7 +784,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/15/queuesAndStack/</loc>
+        <loc>https://lunarscents.github.io/2019/06/16/addDigits/</loc>
         <lastmod>2019-09-19T06:44:20.052Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -792,7 +800,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/16/sorting/</loc>
+        <loc>https://lunarscents.github.io/2019/06/16/generics/</loc>
         <lastmod>2019-09-19T06:44:20.052Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -800,7 +808,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/16/generics/</loc>
+        <loc>https://lunarscents.github.io/2019/06/16/sorting/</loc>
         <lastmod>2019-09-19T06:44:20.052Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -824,6 +832,14 @@
     </url>
 
     <url>
+        <loc>https://lunarscents.github.io/2019/06/14/scope/</loc>
+        <lastmod>2019-09-19T06:44:20.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://lunarscents.github.io/2019/06/14/sumFactors/</loc>
         <lastmod>2019-09-19T06:44:20.051Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -832,7 +848,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/14/scope/</loc>
+        <loc>https://lunarscents.github.io/2019/06/15/createStrangeCharacters/</loc>
         <lastmod>2019-09-19T06:44:20.051Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -856,14 +872,6 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/15/createStrangeCharacters/</loc>
-        <lastmod>2019-09-19T06:44:20.051Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://lunarscents.github.io/2019/06/12/recursion/</loc>
         <lastmod>2019-09-19T06:44:20.050Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -880,6 +888,14 @@
     </url>
 
     <url>
+        <loc>https://lunarscents.github.io/2019/06/13/abstractClasses/</loc>
+        <lastmod>2019-09-19T06:44:20.050Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://lunarscents.github.io/2019/06/13/2DArrays/</loc>
         <lastmod>2019-09-19T06:44:20.050Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -889,14 +905,6 @@
 
     <url>
         <loc>https://lunarscents.github.io/2019/06/13/caesarCipher/</loc>
-        <lastmod>2019-09-19T06:44:20.050Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://lunarscents.github.io/2019/06/13/abstractClasses/</loc>
         <lastmod>2019-09-19T06:44:20.050Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1048,7 +1056,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/07/javaScriptDates/</loc>
+        <loc>https://lunarscents.github.io/2019/06/07/descendingOrderStrings/</loc>
         <lastmod>2019-09-19T06:44:20.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1056,7 +1064,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/07/descendingOrderStrings/</loc>
+        <loc>https://lunarscents.github.io/2019/06/07/javaScriptDates/</loc>
         <lastmod>2019-09-19T06:44:20.046Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1104,7 +1112,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/06/rectangleObject/</loc>
+        <loc>https://lunarscents.github.io/2019/06/06/countInStrings/</loc>
         <lastmod>2019-09-19T06:44:20.045Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1120,6 +1128,14 @@
     </url>
 
     <url>
+        <loc>https://lunarscents.github.io/2019/06/06/rectangleObject/</loc>
+        <lastmod>2019-09-19T06:44:20.045Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://lunarscents.github.io/2019/06/06/templateLiterals/</loc>
         <lastmod>2019-09-19T06:44:20.045Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -1128,15 +1144,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/06/countInStrings/</loc>
-        <lastmod>2019-09-19T06:44:20.045Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://lunarscents.github.io/2019/06/04/arrays/</loc>
+        <loc>https://lunarscents.github.io/2019/06/04/loops/</loc>
         <lastmod>2019-09-19T06:44:20.044Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1144,7 +1152,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/04/loops/</loc>
+        <loc>https://lunarscents.github.io/2019/06/04/arrays/</loc>
         <lastmod>2019-09-19T06:44:20.044Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1184,7 +1192,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/02/dataTypes/</loc>
+        <loc>https://lunarscents.github.io/2019/06/02/divideNumbers/</loc>
         <lastmod>2019-09-19T06:44:20.043Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1192,7 +1200,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/02/divideNumbers/</loc>
+        <loc>https://lunarscents.github.io/2019/06/02/dataTypes/</loc>
         <lastmod>2019-09-19T06:44:20.043Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1224,7 +1232,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/03/ifElse/</loc>
+        <loc>https://lunarscents.github.io/2019/06/03/switch/</loc>
         <lastmod>2019-09-19T06:44:20.043Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1240,7 +1248,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/03/switch/</loc>
+        <loc>https://lunarscents.github.io/2019/06/03/ifElse/</loc>
         <lastmod>2019-09-19T06:44:20.043Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1272,7 +1280,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/05/31/2016/</loc>
+        <loc>https://lunarscents.github.io/2019/05/31/kthNumber/</loc>
         <lastmod>2019-09-19T06:44:20.042Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1280,7 +1288,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/05/31/kthNumber/</loc>
+        <loc>https://lunarscents.github.io/2019/05/31/2016/</loc>
         <lastmod>2019-09-19T06:44:20.042Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1296,7 +1304,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/02/arithmeticOperators/</loc>
+        <loc>https://lunarscents.github.io/2019/06/01/extractMiddleLetters/</loc>
         <lastmod>2019-09-19T06:44:20.042Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1304,7 +1312,7 @@
     </url>
 
     <url>
-        <loc>https://lunarscents.github.io/2019/06/01/extractMiddleLetters/</loc>
+        <loc>https://lunarscents.github.io/2019/06/02/arithmeticOperators/</loc>
         <lastmod>2019-09-19T06:44:20.042Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
